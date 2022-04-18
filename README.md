@@ -1,7 +1,7 @@
 # web3-knowledgebase
 List of all publicly available resources that help get up-to-date web3
 
-#Learn by doing
+# Learn by doing
 1. Solidity  -- https://cryptozombies.io/en/course/
 2. Learn DAO, Web3 -- http://learnweb3.io
 3. 
@@ -9,7 +9,7 @@ List of all publicly available resources that help get up-to-date web3
 # Books
 1. Blockchain enabled applications -- https://tinyurl.com/4e6adzwx
 
-#DApp development platforms/tools
+# DApp development platforms/tools
 1. Moralis
 2. Buildspace
 3. ThirdWeb
@@ -17,7 +17,7 @@ List of all publicly available resources that help get up-to-date web3
 5. Infura
 6. IPFS
 
-#GitHub collection
+# GitHub collection
 NFT
 1. Create your own NFT collection -- https://github.com/LearnWeb3DAO/NFT-Collection
 
