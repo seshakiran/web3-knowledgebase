@@ -12,6 +12,7 @@ List of all publicly available resources that help get up-to-date web3
 5. DApp Univesrity -- https://www.dappuniversity.com/
 6. Eat the Blocks -- https://eattheblocks-pro.teachable.com/
 7. Speed Run Ethereum -- https://speedrunethereum.com/
+8. Learn Web3 -- https://www.useweb3.xyz/
 
 # Youtube courses
 1. Patrick Collins -- https://www.youtube.com/channel/UCn-3f8tw_E1jZvhuHatROwA
