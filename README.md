@@ -3,6 +3,7 @@ List of all publicly available resources that help get up-to-date web3
 
 # Basics
 1. Ethereum -- https://docs.ethhub.io/
+2. Blockchain -- Youtube course -- https://youtu.be/qOVAbKKSH10
 
 # Courses
 1. Full Blockchain Solidity Course -- https://github.com/smartcontractkit/full-blockchain-solidity-course-py
