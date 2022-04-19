@@ -46,11 +46,26 @@ List of all publicly available resources that help get up-to-date web3
 # DApp development platforms/tools
 1. Moralis
 2. Buildspace
-3. ThirdWeb
-4. Remix
 5. Infura
 6. IPFS
 7. Alchemy -- https://www.alchemy.com/
+
+# Programming languages
+Integration with Blockchain
+1. Web3.js
+2. Ethers.js
+3. Web3.py
+
+# IDEs
+1. Remix IDE
+2. Hardhat
+3. Truffle
+4. Brownie
+5. Foundry
+
+# SDKs
+1. Thirdweb
+2. Moralis
 
 # GitHub collection
 NFT
@@ -70,6 +85,14 @@ DeFi
 
 # Jobs
 1. Web3 Career -- https://web3.career/
+2. Cryptocurrency jobs -- https://cryptocurrencyjobs.co/
+3. https://pompcryptojobs.com/
+4. https://cryptojobslist.com/
+5. https://www.useweb3.xyz/ -- Jobs section
+6. https://web3board.io/
+7. https://crypto.jobs/
+8. https://remote.co/
+9. https://www.defi.jobs/
 
 # Blogs to follow
 
